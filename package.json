@@ -1,7 +1,8 @@
 {
   "name": "@lazyweb/experimentation-react-native",
-  "version": "0.1.0",
-  "description": "Lazy Experimentation for React Native, powered by GrowthBook",
+  "version": "0.1.1",
+  "description": "Lazy Experimentation for React Native",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aboul3ata/lazy-experimentation-react-native.git"

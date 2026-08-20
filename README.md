@@ -1,9 +1,9 @@
 # Lazy Experimentation for React Native
 
-This is a thin initializer around GrowthBook's official React Native-compatible SDK. GrowthBook owns feature fetching, caching, targeting, hashing, assignment, and exposure lifecycle.
+Lazy Experimentation gives React Native apps local experiment assignment, feature delivery, and outcome capture through Lazy's control plane.
 
 ```bash
-npm install @lazyweb/experimentation-react-native@0.1.0
+npm install @lazyweb/experimentation-react-native@0.1.1
 ```
 
 ```tsx
