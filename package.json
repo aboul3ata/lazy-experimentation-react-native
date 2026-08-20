@@ -2,6 +2,10 @@
   "name": "@lazyweb/experimentation-react-native",
   "version": "0.1.0",
   "description": "Lazy Experimentation for React Native, powered by GrowthBook",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboul3ata/lazy-experimentation-react-native.git"
+  },
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
